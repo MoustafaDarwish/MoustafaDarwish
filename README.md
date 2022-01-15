@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/d19338aacdbdba1ebd86c151e627618f5700d08a/icons/php.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/d19338aacdbdba1ebd86c151e627618f5700d08a/icons/sass.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/d19338aacdbdba1ebd86c151e627618f5700d08a/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/3c5da794040acd36059dcd67d325c8af2735a357/icons/webassembly.svg" alt="webassembly" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/946bc9d5550edca12903b6bd069e1e90bdfc9329/icons/webassembly.svg" alt="webassembly" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/d19338aacdbdba1ebd86c151e627618f5700d08a/icons/c.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/3c5da794040acd36059dcd67d325c8af2735a357/icons/CC.svg" alt="cc" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/d19338aacdbdba1ebd86c151e627618f5700d08a/icons/github.svg" alt="github" width="40" height="40"/>
