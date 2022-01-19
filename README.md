@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/946bc9d5550edca12903b6bd069e1e90bdfc9329/icons/webassembly.svg" title="WebAssembly" alt="webassembly" width="40" height="40" draggable="false"/>
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/d19338aacdbdba1ebd86c151e627618f5700d08a/icons/c.svg" title="C" alt="c" width="40" height="40" draggable="false"/>
 <img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/3c5da794040acd36059dcd67d325c8af2735a357/icons/CC.svg" title="Creative Cloud" alt="cc" width="40" height="40" draggable="false"/>
-<img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/2dfe8d4fc484d80a2e84b6ccfce5f5c17b2e80c5/icons/linux.svg" titxle="Linux" alt="linux" width="40" height="40" draggable="false"/>
+<img src="https://raw.githubusercontent.com/MoustafaDarwish/MoustafaDarwish/2dfe8d4fc484d80a2e84b6ccfce5f5c17b2e80c5/icons/linux.svg" title="Linux" alt="linux" width="40" height="40" draggable="false"/>
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoustafaDarwish&theme=tokyonight&show_icons=true" alt="mustafa" /></p>
 
