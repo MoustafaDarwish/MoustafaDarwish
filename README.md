@@ -25,6 +25,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Bahrain Design](https://bahrain.netlify.app)
-- [TQN](https://tech105.netlify.app)
-- [PDF VIEWR](https://t105.netlify.app)
+- [TECH105](https://tech105.netlify.app)
+- [PROJECT](https://t105.netlify.app)
 <!-- BLOG-POST-LIST:END -->
